@@ -1,3 +1,3 @@
 Project Name | Live
 ------------ | -------------
-Guess Number  | (https://abhishek-guessno.netlify.app/)
+01_Guess Number  | https://abhishek-guessno.netlify.app/
